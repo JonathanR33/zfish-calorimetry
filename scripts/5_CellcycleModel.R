@@ -103,7 +103,7 @@ ggplot(model13, aes(time, mean)) + geom_line(size=0.8)+   facet_grid(cond ~ ., s
 model13 <- rbind(cdka,PP2)
 
 #Calulcation of theoretical heat dissipation by cell cycle dephopshorylation events
-dfa$heat <- dfa$SPPP2*(4*10^-7)*42*10^3*60
+dfa$heat <- dfa$SPPP2*(4*10^-7)*42*10^3*30
 
 #filter heat dissipation
 dfa$heat_lowess <- lowess(dfa$heat, f=0.5)[[2]]
