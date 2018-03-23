@@ -9,13 +9,13 @@ This repository contains all experimental data and programs for the analysis fou
 
 An index for the structure of this repository is given below.
 
-#code
+# code
 This folder contains the R-scripts and examples files for processing, analyzing, and displaying the data presented in this work.
 
 scripts/ | R-scripts used in this work
 
 examples.csv/ | Example isothermal calorimetry data to analyze data presented in this work.
 
-data
+# data
 This folder contains all experimental data (.csv) used in the publication.
 
