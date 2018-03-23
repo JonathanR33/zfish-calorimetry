@@ -10,7 +10,7 @@ scripts/ | R-scripts used in this work. R scripts 1-4 used to currate (script 1)
 and wavelet transform (script 4) of the measured heat dissipation rate form zebrafish embryos. A single example dataset (one
 biological replicate) is provided (example.csv and example.itc). Mathematical cell cycle modeling was computed using script 5.
 
-examples/ .csv | Example isothermal calorimetry dataset (one biological replicate) is provided (example.csv and example.itc) to follow the data analysis used in this work.
+examples/ | Example isothermal calorimetry dataset (one biological replicate) is provided (example.csv and example.itc) to follow the data analysis used in this work.
 
 # data
 This folder contains all experimental data (.csv) used in the publication.
