@@ -15,5 +15,5 @@ examples/ | Example isothermal calorimetry dataset (one biological replicate) is
 # data
 This folder contains the time normalized calorimetry data for each biological replicate (.csv) and the correspoding mean observerd, trend, oscillatory and noise component +/- SD and SEM data for each experimental conditions
 
-Data structure: Temp_AR_condition_type_mean_SDSE
+Data structure: Temperature_AR_condition_type_mean_SDSE
 
