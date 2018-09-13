@@ -3,7 +3,7 @@ This repository contains the calorimetry data and programs for the analysis foun
 
 An index for the structure of this repository is given below.
 
-# code
+# Scripts
 This folder contains the R-scripts and examples files for processing, analyzing, and displaying the data presented in this work.
 
 scripts/ | R-scripts used in this work. R scripts 1-4 used to currate (script 1), normalize (script 2), decompose ( script 3), 
