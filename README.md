@@ -13,5 +13,5 @@ biological replicate) is provided (example.csv and example.itc). Mathematical ce
 examples/ | Example isothermal calorimetry dataset (one biological replicate) is provided (example.csv and example.itc) to follow the data analysis used in this work.
 
 # data
-This folder contains the calorimetry data (.csv) used in the publication.
+This folder contains the time normalized calorimetry data for each biological replicate (.csv) and the correspoding mean observerd (obs), trend (trend), oscillatory (osc) and noise component +/- SD and SEM data for each experimental conditions  
 
