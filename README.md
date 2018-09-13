@@ -1,4 +1,4 @@
-10.5281/zenodo.1418505
+DOI:10.5281/zenodo.1418505
 
 # Heat oscillations driven by the embryonic cell cycle arise from the energetic costs of signaling
 This repository contains the calorimetry data and programs for the analysis found in "Heat oscillations driven by the embryonic cell cycle arise from the energetic costs of signaling" by Jonathan Rodenfels, Jonathon Howard and Karla M Neugebauer.
