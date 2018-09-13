@@ -1,5 +1,5 @@
 # Heat oscillations driven by the embryonic cell cycle arise from the energetic costs of signaling
-This repository contains all experimental data and programs for the analysis found in "Heat oscillations driven by the embryonic cell cycle arise from the energetic costs of signaling" by Jonathan Rodenfels, Jonathon Howard and Karla m Neugebauer.
+This repository contains teh calorimetry data and programs for the analysis found in "Heat oscillations driven by the embryonic cell cycle arise from the energetic costs of signaling" by Jonathan Rodenfels, Jonathon Howard and Karla M Neugebauer.
 
 An index for the structure of this repository is given below.
 
@@ -13,5 +13,5 @@ biological replicate) is provided (example.csv and example.itc). Mathematical ce
 examples/ | Example isothermal calorimetry dataset (one biological replicate) is provided (example.csv and example.itc) to follow the data analysis used in this work.
 
 # data
-This folder contains all experimental data (.csv) used in the publication.
+This folder contains the calorimetry data (.csv) used in the publication.
 
